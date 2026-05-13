@@ -32,7 +32,7 @@ const prophetQuotes = [
   {
     // ✏️ Replace src with your own image of Billy Graham
     src: myphoto,
-    name: "Billy Graham",
+    name: "Dr.Reverend Philip-Adjei Aquah",
     designation: "Evangelist & Preacher",
     quote:
       "The will of God will never take you to where the grace of God will not protect you.",
@@ -40,7 +40,7 @@ const prophetQuotes = [
   {
     // ✏️ Replace src with your own image of Myles Munroe
     src: myphoto1,
-    name: "Myles Munroe",
+    name: "Pastor Benjamin",
     designation: "Pastor & Kingdom Teacher",
     quote:
       "The greatest tragedy in life is not death, but a life without a purpose.",
@@ -48,7 +48,7 @@ const prophetQuotes = [
   {
     // ✏️ Replace src with your own image of Charles Spurgeon
     src: myphoto2,
-    name: "Charles Spurgeon",
+    name: " Pastor Enoke",
     designation: "The Prince of Preachers",
     quote:
       "A Bible that is falling apart usually belongs to someone who is not.",
@@ -56,8 +56,8 @@ const prophetQuotes = [
   {
     // ✏️ Replace src with your own image of Corrie ten Boom
     src: myphoto3,
-    name: "Corrie ten Boom",
-    designation: "Author & Evangelist",
+    name: "",
+    designation: "Mr.Bakita",
     quote:
       "You can never learn that Christ is all you need, until Christ is all you have.",
   },
